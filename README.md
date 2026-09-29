@@ -1,3 +1,5 @@
+![Charla Centro Cultural UNC](charla-220926.png)
+
 # Transcripción de Micrófono en Tiempo Real con Sherpa-ONNX
 
 Aplicación de Python simple, modular y ligera para reconocimiento de voz a texto en tiempo real
